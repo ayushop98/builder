@@ -1,7 +1,10 @@
 .navbar li{
   float: left;
+  padding-left: 20px;
 }
 .navbar ul{
   background-color: black;
   list-style: none;
+  overflow: hidden;
+  width: 100%;
 }
