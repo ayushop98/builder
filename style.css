@@ -8,3 +8,6 @@
   overflow: hidden;
   width: 100%;
 }
+.navbar a{
+  color: white;
+}
